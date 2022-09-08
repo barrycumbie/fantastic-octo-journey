@@ -8,6 +8,10 @@ h3 {
   font-family: "Miniver", cursive;
 }
 
+.navbar-brand {
+  font-family: "Miniver", cursive;
+}
+
 #outputDiv {
   display: none;
 }
